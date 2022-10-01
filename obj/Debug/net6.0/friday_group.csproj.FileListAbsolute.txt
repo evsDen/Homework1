@@ -1,0 +1,15 @@
+C:\Users\sarat\OneDrive\Рабочий стол\friday_group\bin\Debug\net6.0\friday_group.exe
+C:\Users\sarat\OneDrive\Рабочий стол\friday_group\bin\Debug\net6.0\friday_group.deps.json
+C:\Users\sarat\OneDrive\Рабочий стол\friday_group\bin\Debug\net6.0\friday_group.runtimeconfig.json
+C:\Users\sarat\OneDrive\Рабочий стол\friday_group\bin\Debug\net6.0\friday_group.dll
+C:\Users\sarat\OneDrive\Рабочий стол\friday_group\bin\Debug\net6.0\friday_group.pdb
+C:\Users\sarat\OneDrive\Рабочий стол\friday_group\obj\Debug\net6.0\friday_group.csproj.AssemblyReference.cache
+C:\Users\sarat\OneDrive\Рабочий стол\friday_group\obj\Debug\net6.0\friday_group.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarat\OneDrive\Рабочий стол\friday_group\obj\Debug\net6.0\friday_group.AssemblyInfoInputs.cache
+C:\Users\sarat\OneDrive\Рабочий стол\friday_group\obj\Debug\net6.0\friday_group.AssemblyInfo.cs
+C:\Users\sarat\OneDrive\Рабочий стол\friday_group\obj\Debug\net6.0\friday_group.csproj.CoreCompileInputs.cache
+C:\Users\sarat\OneDrive\Рабочий стол\friday_group\obj\Debug\net6.0\friday_group.dll
+C:\Users\sarat\OneDrive\Рабочий стол\friday_group\obj\Debug\net6.0\refint\friday_group.dll
+C:\Users\sarat\OneDrive\Рабочий стол\friday_group\obj\Debug\net6.0\friday_group.pdb
+C:\Users\sarat\OneDrive\Рабочий стол\friday_group\obj\Debug\net6.0\friday_group.genruntimeconfig.cache
+C:\Users\sarat\OneDrive\Рабочий стол\friday_group\obj\Debug\net6.0\ref\friday_group.dll
